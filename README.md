@@ -21,7 +21,7 @@ particle populations. I promise I had a good reason for writing this.
     - Store dry as floats, wet as ints, use typechecking
 - Recipe name validation?
 - I'd say remove case sensitivity, but if you're writing a program in Chef, making things the correct case is probably the least of your problems. Suck it up.
-- Did some bullshit in the parser checking for `ingredient==''` in the ingredients section because I was tired and a little drunk. That should probably be fixed.
+- Did some bullshit in the parser checking for `ingredient==''` in the ingredients section because I was *very* tired. That should probably be fixed.
 
 ## Known bugs
 I'd describe this as more of a patchwork of bugs than a legitimate interpreter.
